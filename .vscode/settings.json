@@ -6,5 +6,6 @@
         "**/.factorypath": true
     },
     "maven.executable.path": "C:\\Dev Tools\\apache-maven-3.6.3\\bin\\mvn",
-    "java.configuration.updateBuildConfiguration": "automatic"
+    "java.configuration.updateBuildConfiguration": "automatic",
+    "java.home":"C:\\Program Files\\Java\\jdk-11.0.4"
 }
