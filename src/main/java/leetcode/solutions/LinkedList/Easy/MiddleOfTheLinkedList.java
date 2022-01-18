@@ -2,6 +2,13 @@ package leetcode.solutions.LinkedList.Easy;
 
 import leetcode.solutions.Tools.ListNode;
 
+/**
+ * 876. Middle of the Linked List
+ *
+ * Given the head of a singly linked list, return the middle node of the linked list.
+ *
+ * If there are two middle nodes, return the second middle node.
+ */
 public class MiddleOfTheLinkedList {
     /**
      *  我们让两个指针 slow 和 fast 分别指向链表头结点 head
